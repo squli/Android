@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BeerIntents</string>
+    <string name="app_Title">Beer Select</string>
+    <string name="app_button_title_activity">Read in new Activity</string>
+    <string name="app_button_send_by_intent">Send by Intent</string>
+
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+
+    <string-array name="beer_descriptions">
+        <item>Light beer (invented in 1967 by American biochemist Joseph Owades) is a beer (usually a Pilsner) that is reduced in alcohol content or in calories compared to regular beers. Light beers may be chosen by beer drinkers who wish to manage their alcohol consumption or their calorie intake; however, they are sometimes criticised for being less flavourful than full-strength beers, tasting or actually being watered down.</item>
+        <item>American Amber is derived from American Pale ale and shares many of the same characteristics including a fairly high hop rate with American hops for flavor and aroma. Ambers have higher mouthfeel and body than corresponding American Pale Ales. Many are reddish in color and are also closely related to Irish red ales, except that they use more floral accented hops. American Ambers were pioneered by Craft Beer brewers on the American West Coast, but quickly spread to other parts of the country and eventually stood as a style on its own. </item>
+        <item>Brown ale is a style of beer with a dark amber or brown colour. The term was first used by London brewers in the late 17th century to describe their products, such as mild ale,[1] though the term had a rather different meaning than it does today. 18th-century brown ales were lightly hopped and brewed from 100% brown malt.</item>
+        <item>Brewed with top fermenting yeast at cellar temperature, ales are fuller-bodied, with nuances of fruit or spice and a pleasantly hoppy finish. Generally robust and complex with a variety of fruit and malt aromas, ales come in many varieties. They could include Bitters, Milds, Abbey Ales, Pale Ales, Nut Browns, etc.</item>
+    </string-array>
+
+    <string name="title_activity_text">TextActivity</string>
+
+</resources>
